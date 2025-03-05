@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/bin/Debug/net8.0/OrderService.Infrastructure.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/bin/Debug/net8.0/OrderService.Infrastructure.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/bin/Debug/net8.0/OrderService.Infrastructure.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/OrderService.Infrastructure.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/OrderService.Infrastructure.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/OrderService.Infrastructure.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/refint/OrderService.Infrastructure.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/OrderService.Infrastructure.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Infrastructure/obj/Debug/net8.0/ref/OrderService.Infrastructure.dll

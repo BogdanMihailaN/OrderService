@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\OrderService.Domain.csproj" />
+    <ProjectReference Include="..\Infrastructure\OrderService.Infrastructure.csproj" />
+    <ProjectReference Include="..\Repositories\OrderService.Repositories.csproj" />
+    <ProjectReference Include="..\Services\OrderService.Services.csproj" />
+    <ProjectReference Include="..\Utility\OrderService.Utility.csproj" />
+    <ProjectReference Include="..\DataProviders\OrderService.DataProviders.csproj" />
+  </ItemGroup>
+
+</Project>

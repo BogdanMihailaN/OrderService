@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/bin/Debug/net8.0/OrderService.Repositories.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/bin/Debug/net8.0/OrderService.Repositories.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/bin/Debug/net8.0/OrderService.Repositories.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/OrderService.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/OrderService.Repositories.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/OrderService.Repositories.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/OrderService.Repositories.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/OrderService.Repositories.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/refint/OrderService.Repositories.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/OrderService.Repositories.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/OrderService/src/Repositories/obj/Debug/net8.0/ref/OrderService.Repositories.dll
